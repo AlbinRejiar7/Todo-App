@@ -1,16 +1,8 @@
-# slivers
+# Todo App![Screenshot_1701173841](https://github.com/AlbinRejiar7/Todo-App/assets/141668039/6f2ca816-2851-4cbd-b3f3-8989fd4ff55f)
+![Screenshot_1701173887](https://github.com/AlbinRejiar7/Todo-App/assets/141668039/2995baeb-0c7f-47ff-b2c2-052cbb359d5b)
+![Screenshot_1701173866](https://github.com/AlbinRejiar7/Todo-App/assets/141668039/ad6801f9-d76d-47c6-a98f-5e66b26106b3)
+![Screenshot_1701173863](https://github.com/AlbinRejiar7/Todo-App/assets/141668039/489a870d-5229-4a11-97f4-e80222c3981d)
+![Screenshot_1701173854](https://github.com/AlbinRejiar7/Todo-App/assets/141668039/450dc5ad-e15f-4554-b2b6-30c0d0edf171)
+![Screenshot_1701173848](https://github.com/AlbinRejiar7/Todo-App/assets/141668039/c018ddf6-67e7-4707-85cc-90afacbac137)
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
